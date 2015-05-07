@@ -1,7 +1,7 @@
 # My training projects
-TAXI_SERVICE description:<br>
+TAXI_SERVICE Maven module description:<br>
 Web interface for taxi service.<br>
-Written with the usage of : Java, Spring, Hibernate, HTML, CSS, JSTL, JSP<br>
+Written with the usage of : Java, Spring, Hibernate, HTML, CSS, JSTL, JSP, MAVEN<br>
 Project structure:<br>
 <b>webapp</b> - web part written with the use JSP pages (WEB-INF/jsps), HTML, CSS, JSTL<br>
 <b>java</b><br>
