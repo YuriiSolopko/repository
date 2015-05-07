@@ -1,5 +1,5 @@
 # My training projects
-<u>TAXI_SERVICE Maven module description:</u><br>
+<i>TAXI_SERVICE Maven module description:</i><br>
 Web interface for taxi service.<br>
 Written with the usage of : Java, Spring, Hibernate, HTML, CSS, JSTL, JSP, MAVEN<br>
 Project structure:<br>
