@@ -17,7 +17,7 @@ Project structure:<br>
 |-log4j.properties - properties for Log4j<br>
 <br><br>
 <b><i>ELECTION_SERVICE Maven module description:</i></b><br>
-Web interface for taxi service.<br>
+Web interface for elections. Voter signs in and gets candidates for his region, voter can vote only once<br>
 Written with the usage of : Java, Spring, Hibernate, HTML, CSS, JSTL, JSP, JavaScript, JSON, AJAX, MAVEN<br>
 Project structure:<br>
 <b>webapp</b> - web part written with the use JSP pages (WEB-INF/jsps), HTML, CSS(/css), JSTL, JavaScript(/js), AJAX, JSON<br>
