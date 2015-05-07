@@ -15,7 +15,7 @@ Project structure:<br>
 |-conf.properties - properties for Spring's context<br>
 |-log4j.properties - properties for Log4j<br>
 <br><br>
-<u>ELECTION_SERVICE Maven module description:</u><br>
+<b><i>ELECTION_SERVICE Maven module description:</i></b><br>
 Web interface for taxi service.<br>
 Written with the usage of : Java, Spring, Hibernate, HTML, CSS, JSTL, JSP, MAVEN<br>
 Project structure:<br>
