@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="election_service:war">
+    <output-path>$PROJECT_DIR$/election_service/target</output-path>
+    <root id="archive" name="election_service-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="election_service:war exploded" />
+    </root>
+  </artifact>
+</component>
