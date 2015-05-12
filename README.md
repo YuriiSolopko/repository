@@ -1,5 +1,5 @@
 # My training projects
-Servers for this projects were started with Tomcat<br>
+Servers "Taxi_service" and "Election_service" projects were started with Tomcat<br>
 <b><i>TAXI_SERVICE Maven module description:</i></b><br>
 Web interface for taxi service.<br>
 Written with the usage of : Java, Spring, Hibernate, HTML, CSS, JSTL, JSP, MAVEN<br>
