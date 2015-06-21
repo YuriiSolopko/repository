@@ -45,7 +45,7 @@ public class AsyncChat extends Application {
         @Override
         protected Void call() throws Exception {
             clientServer = serverChannel.accept();
-//            System.out.println(clientServer.getRemoteAddress().toString().substring(1,clientServer.getRemoteAddress().toString().indexOf(':')));
+
             Platform.runLater(new Runnable() {
                 @Override
                 public void run() {
