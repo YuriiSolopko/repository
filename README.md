@@ -33,3 +33,4 @@ Project structure:<br>
 <br><br>
 <b><i>miscellaneous module description:</i></b><br>
 |-chatter.AsyncChat - network chatter desktop application. GUI written with the use of JavaFX
+|-calculatorFX - desktop calculator application. GUI written using JavaFX
