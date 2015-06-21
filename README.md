@@ -32,5 +32,5 @@ Project structure:<br>
 |-log4j.properties - properties for Log4j<br>
 <br><br>
 <b><i>miscellaneous module description:</i></b><br>
-|-chatter.AsyncChat - network chatter desktop application. GUI written with the use of JavaFX
+|-chatter.AsyncChat - network chatter desktop application. GUI written with the use of JavaFX<br>
 |-calculatorFX - desktop calculator application. GUI written using JavaFX
